@@ -13,11 +13,18 @@ java {
 
 repositories {
 	mavenCentral()
+    maven {
+        url 'https://repo.clojars.org'
+        name 'Clojars'
+    }
 }
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'user.java.io:user.java.io:2020.134.36653'
+	implementation 'com.github.nbbrd.java-io-util:java-io-base:0.0.25'
+	implementation 'com.github.nbbrd.java-io-util:java-io-parent:0.0.25'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	implementation 'com.google.firebase:firebase-admin:9.2.0'
 
