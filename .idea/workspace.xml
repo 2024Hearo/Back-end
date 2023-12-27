@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4b422c1-2f14-446c-a11f-8243a2557a58" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "4741e8f7f03faf741ff908e3cf341544"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -92,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703227087300</updated>
       <workItem from="1703520129714" duration="7297000" />
+      <workItem from="1703663559769" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1703592060666</created>
